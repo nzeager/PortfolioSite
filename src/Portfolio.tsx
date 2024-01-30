@@ -1,6 +1,12 @@
 const Portfolio = () => {
     return (
-        <>Portfolio!</>
+        <>
+            {/* Map over however many portfolios */}
+            <ul>
+                <li>Momentum Mentors</li>
+                <li>Nathan's TMDB project</li>
+            </ul>
+        </>
     );
 }
 

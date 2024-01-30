@@ -1,6 +1,9 @@
 const Profiles = () => {
     return (
-        <>Profiles!</>
+        <>
+            {/* Map over 3 profiles */}
+            Profiles!
+        </>
     );
 }
 
